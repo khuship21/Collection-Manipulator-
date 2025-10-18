@@ -25,5 +25,4 @@ This project serves as a practical example of how Python’s data structures can
 - Collection data types: List, Tuple, Set, Dictionary  
 - Mutability and immutability  
 - Type casting  
-- Use of the `del` keyword  
 - Loops and control structures for user input  
